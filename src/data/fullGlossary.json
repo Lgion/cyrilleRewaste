@@ -1,0 +1,382 @@
+[
+  {
+    "term": "BSF (Mouche Soldat Noire)",
+    "category": "Biologie",
+    "definition": "Hermetia illucens, insecte de la famille des Stratiomyidae utilisé pour le biotraitement des déchets organiques."
+  },
+  {
+    "term": "Larvero",
+    "category": "Équipement",
+    "definition": "Container spécialement conçu pour l'élevage des larves de BSF."
+  },
+  {
+    "term": "Pré-pupe",
+    "category": "Biologie",
+    "definition": "Stade du développement de la BSF précédant la pupaison, caractérisé par un assombrissement de la cuticule."
+  },
+  {
+    "term": "Unité de reproduction",
+    "category": "Production",
+    "definition": "Espace dédié à la production des œufs, incluant des cages pour adultes, substrats de ponte et incubateurs."
+  },
+  {
+    "term": "Unité de croissance larvaire",
+    "category": "Production",
+    "definition": "Espace où les jeunes larves sont nourries et élevées jusqu'au stade pré-pupal."
+  },
+  {
+    "term": "Unité de traitement post-récolte",
+    "category": "Production",
+    "definition": "Ensemble des installations pour le traitement des produits larvaires après leur récolte (séchage, transformation)."
+  },
+  {
+    "term": "Substrat de ponte",
+    "category": "Reproduction",
+    "definition": "Matériau spécifique utilisé pour encourager les mouches femelles à pondre leurs œufs."
+  },
+  {
+    "term": "Résidu de digestion",
+    "category": "Produits",
+    "definition": "Matière organique restante après le traitement par les larves de BSF, utilisable comme amendement du sol."
+  },
+  {
+    "term": "Déchets organiques",
+    "category": "Alimentation",
+    "definition": "Matières biodégradables d'origine végétale ou animale utilisées comme aliment pour les larves de BSF."
+  },
+  {
+    "term": "Bioconversion",
+    "category": "Processus",
+    "definition": "Processus de transformation des déchets organiques en biomasse larvaire et en résidu de digestion."
+  },
+  {
+    "term": "Taux de conversion",
+    "category": "Performance",
+    "definition": "Mesure d'efficacité indiquant la quantité de biomasse larvaire produite par rapport à la quantité de déchets traités."
+  },
+  {
+    "term": "Larvicole",
+    "category": "Métier",
+    "definition": "Personne qui pratique l'élevage de larves, notamment de BSF."
+  },
+  {
+    "term": "Cage à mouches",
+    "category": "Équipement",
+    "definition": "Structure conçue pour contenir les mouches adultes pendant la phase de reproduction."
+  },
+  {
+    "term": "Rampe d'auto-récolte",
+    "category": "Équipement",
+    "definition": "Dispositif incliné permettant aux pré-pupes de sortir d'elles-mêmes du substrat, facilitant leur collecte."
+  },
+  {
+    "term": "Frass",
+    "category": "Produits",
+    "definition": "Autre terme pour le résidu de digestion, comprenant les excréments des larves et le substrat non consommé."
+  },
+  {
+    "term": "Pupaison",
+    "category": "Biologie",
+    "definition": "Processus de transformation de la pré-pupe en pupe, où l'insecte subit une métamorphose complète."
+  },
+  {
+    "term": "BSFL",
+    "category": "Biologie",
+    "definition": "Black Soldier Fly Larvae (Larves de Mouche Soldat Noire), forme juvénile de la BSF utilisée pour le biotraitement."
+  },
+  {
+    "term": "Co-compostage",
+    "category": "Processus",
+    "definition": "Technique combinant le traitement par larves de BSF et le compostage traditionnel."
+  },
+  {
+    "term": "Tamis vibrant",
+    "category": "Équipement",
+    "definition": "Équipement utilisé pour séparer les larves du substrat résiduel après traitement."
+  },
+  {
+    "term": "Valorisation énergétique",
+    "category": "Applications",
+    "definition": "Utilisation de la biomasse larvaire ou des résidus pour produire de l'énergie (biogaz, biodiesel)."
+  },
+  {
+    "term": "Oviposition",
+    "category": "Reproduction",
+    "definition": "Action de ponte des œufs par la femelle BSF, généralement dans des interstices proches d'un substrat nourricier pour les futures larves."
+  },
+  {
+    "term": "Incubateur à œufs",
+    "category": "Équipement",
+    "definition": "Dispositif maintenant des conditions optimales de température et d'humidité pour l'éclosion des œufs de BSF."
+  },
+  {
+    "term": "Nymphe",
+    "category": "Biologie",
+    "definition": "Autre terme désignant la pupe, stade inactif entre la pré-pupe et l'adulte où s'opère la métamorphose."
+  },
+  {
+    "term": "Métamorphose complète",
+    "category": "Biologie",
+    "definition": "Type de développement des BSF où l'insecte passe par quatre stades distincts: œuf, larve, pupe et adulte."
+  },
+  {
+    "term": "Pré-traitement",
+    "category": "Processus",
+    "definition": "Préparation des déchets organiques avant leur introduction dans les unités de traitement par larves (broyage, mélange, etc.)."
+  },
+  {
+    "term": "Densité larvaire",
+    "category": "Performance",
+    "definition": "Nombre de larves par unité de surface ou de volume dans un système d'élevage, facteur crucial pour l'efficacité du traitement."
+  },
+  {
+    "term": "Taux d'éclosion",
+    "category": "Performance",
+    "definition": "Pourcentage d'œufs qui éclosent avec succès, indicateur de la viabilité des œufs et des conditions d'incubation."
+  },
+  {
+    "term": "Masse d'œufs",
+    "category": "Reproduction",
+    "definition": "Groupe d'œufs pondüs ensemble par une femelle BSF, contenant généralement entre 400 et 800 œufs."
+  },
+  {
+    "term": "Système continu",
+    "category": "Processus",
+    "definition": "Méthode d'élevage où les larves de différents âges sont mélangées et où l'alimentation et la récolte se font en continu."
+  },
+  {
+    "term": "Système discontinu (batch)",
+    "category": "Processus",
+    "definition": "Méthode d'élevage où un groupe de larves du même âge est élevé ensemble jusqu'à la récolte complète."
+  },
+  {
+    "term": "Valeur nutritionnelle",
+    "category": "Produits",
+    "definition": "Composition en nutriments (protéines, lipides, etc.) des larves de BSF, importante pour leur utilisation comme aliment animal."
+  },
+  {
+    "term": "Séchoir solaire",
+    "category": "Équipement",
+    "definition": "Dispositif utilisant l'énergie solaire pour déshydrater les larves après récolte, méthode économique de conservation."
+  },
+  {
+    "term": "Farine de larves",
+    "category": "Produits",
+    "definition": "Produit obtenu après séchage et broyage des larves de BSF, utilisé comme ingrédient riche en protéines pour l'alimentation animale."
+  },
+  {
+    "term": "Extraction de lipides",
+    "category": "Processus",
+    "definition": "Processus permettant de séparer les graisses contenues dans les larves de BSF pour diverses applications (biodiesel, cosmétiques)."
+  },
+  {
+    "term": "Diapause",
+    "category": "Biologie",
+    "definition": "Période d'arrêt temporaire du développement chez certains insectes, rare chez la BSF mais possible dans des conditions défavorables."
+  },
+  {
+    "term": "Substrat nourricier",
+    "category": "Alimentation",
+    "definition": "Mélange de déchets organiques et autres matières fourni aux larves comme source de nourriture."
+  },
+  {
+    "term": "Chambre nuptiale",
+    "category": "Équipement",
+    "definition": "Espace conçu pour favoriser l'accouplement des mouches adultes, avec des conditions de lumière et de température optimales."
+  },
+  {
+    "term": "Barrière anti-évasion",
+    "category": "Équipement",
+    "definition": "Dispositif empêchant les larves de s'échapper des unités d'élevage, généralement installé sur les bords des conteneurs."
+  },
+  {
+    "term": "Carapace chitinée",
+    "category": "Biologie",
+    "definition": "Enveloppe externe rigide des larves et des adultes BSF, composée principalement de chitine."
+  },
+  {
+    "term": "Amendement de sol",
+    "category": "Applications",
+    "definition": "Utilisation du résidu de digestion des larves de BSF pour améliorer les propriétés physiques et chimiques du sol."
+  },
+  {
+    "term": "Chitine",
+    "category": "Produits",
+    "definition": "Biopolymère présent dans l'exosquelette des insectes, dont la BSF, ayant des applications potentielles en industrie et médecine."
+  },
+  {
+    "term": "Analyse du cycle de vie",
+    "category": "Performance",
+    "definition": "Évaluation de l'impact environnemental d'un système d'élevage de BSF sur l'ensemble de son cycle d'opération."
+  },
+  {
+    "term": "Phototropisme",
+    "category": "Biologie",
+    "definition": "Réaction des mouches adultes à la lumière, utilisée dans la conception des cages pour faciliter la capture et l'accouplement."
+  },
+  {
+    "term": "Complément alimentaire",
+    "category": "Alimentation",
+    "definition": "Ingrédients ajoutés au substrat de base pour améliorer la croissance ou la valeur nutritionnelle des larves (vitamines, minéraux)."
+  },
+  {
+    "term": "Modèle technico-économique",
+    "category": "Gestion",
+    "definition": "Outil d'analyse permettant d'évaluer la viabilité financière et technique d'une installation d'élevage de BSF."
+  },
+  {
+    "term": "Cycle vital de la BSF",
+    "category": "Biologie",
+    "definition": "Ensemble des phases de vie de la mouche soldat noire, depuis l'œuf jusqu'à l'adulte, durant typiquement de 38 à 41 jours selon les conditions."
+  },
+  {
+    "term": "Molting",
+    "category": "Biologie",
+    "definition": "Processus de mue pendant lequel la larve se débarrasse de son exosquelette pour permettre sa croissance, se produisant plusieurs fois durant le développement larvaire."
+  },
+  {
+    "term": "Stade larvaire L1-L6",
+    "category": "Biologie",
+    "definition": "Désignation des différents stades de développement larvaire de la BSF, de L1 (premier stade après éclosion) à L6 (dernier stade avant la pré-pupaison)."
+  },
+  {
+    "term": "Activité enzymatique larvaire",
+    "category": "Biologie",
+    "definition": "Ensemble des enzymes digestives produites par les larves de BSF permettant la dégradation des matières organiques complexes."
+  },
+  {
+    "term": "Théorie du comportement d'auto-récolte",
+    "category": "Biologie",
+    "definition": "Concept expliquant la tendance naturelle des larves au stade pré-pupal à quitter leur substrat nourricier pour chercher un endroit sec et protégé."
+  },
+  {
+    "term": "Spéciation environnementale",
+    "category": "Biologie",
+    "definition": "Adaptation des populations de BSF aux conditions locales entraînant le développement de caractéristiques spécifiques selon les régions."
+  },
+  {
+    "term": "Taux de survie larvaire",
+    "category": "Performance",
+    "definition": "Pourcentage de larves survivant depuis l'éclosion jusqu'au stade voulu (généralement pré-pupal), indicateur important de la performance d'un système."
+  },
+  {
+    "term": "Quotient nutritionnel",
+    "category": "Performance",
+    "definition": "Rapport entre la quantité de nourriture consommée et le gain de poids des larves, indicateur d'efficacité de conversion alimentaire."
+  },
+  {
+    "term": "Effet sanitisant",
+    "category": "Propriétés",
+    "definition": "Capacité des larves de BSF à réduire la charge microbiologique pathogène dans les déchets qu'elles traitent, notamment certaines bactéries."
+  },
+  {
+    "term": "Immunologie larvaire",
+    "category": "Biologie",
+    "definition": "Ensemble des mécanismes de défense des larves de BSF contre les pathogènes, incluant la production de peptides antimicrobiens."
+  },
+  {
+    "term": "Ratio C/N",
+    "category": "Alimentation",
+    "definition": "Rapport entre carbone et azote dans le substrat, facteur crucial pour l'alimentation optimale des larves et la qualité du compost final."
+  },
+  {
+    "term": "Capacité de rétention d'eau",
+    "category": "Propriétés",
+    "definition": "Propriété du résidu de digestion à retenir l'eau, importante pour son utilisation comme amendement du sol."
+  },
+  {
+    "term": "Flux thermique",
+    "category": "Propriétés",
+    "definition": "Chaleur générée par l'activité métabolique des larves dans le substrat, pouvant atteindre 45°C au cœur d'une masse larvaire dense."
+  },
+  {
+    "term": "Protocole de bio-sécurité",
+    "category": "Gestion",
+    "definition": "Ensemble des mesures préventives mises en place dans une unité d'élevage pour prévenir l'introduction et la propagation de maladies."
+  },
+  {
+    "term": "Profil d'acides gras",
+    "category": "Produits",
+    "definition": "Composition en acides gras des larves de BSF, influencée par leur alimentation et déterminante pour leur utilisation en alimentation animale."
+  },
+  {
+    "term": "Unité pilote",
+    "category": "Production",
+    "definition": "Installation d'élevage de BSF à échelle réduite, utilisée pour tester et optimiser les procédés avant mise à l'échelle industrielle."
+  },
+  {
+    "term": "Microbiome larvaire",
+    "category": "Biologie",
+    "definition": "Ensemble des micro-organismes présents dans le système digestif des larves de BSF, contribuant à leur capacité de dégradation des déchets."
+  },
+  {
+    "term": "Valorisation en cascades",
+    "category": "Applications",
+    "definition": "Approche visant à exploiter séquentiellement différents produits dérivés des larves de BSF (protéines, lipides, chitine) pour maximiser leur valeur."
+  },
+  {
+    "term": "Système en couches",
+    "category": "Processus",
+    "definition": "Technique d'élevage où les larves sont disposées en plusieurs couches superposées pour optimiser l'espace et faciliter la gestion."
+  },
+  {
+    "term": "Inémie",
+    "category": "Biologie",
+    "definition": "Distance parcourue par l'adulte BSF pour trouver un partenaire d'accouplement, généralement faible car ces mouches volent peu et sur de courtes distances."
+  },
+  {
+    "term": "Stabilité aérobie",
+    "category": "Propriétés",
+    "definition": "Degré de résistance du résidu de digestion à la décomposition ultérieure, indicateur de sa maturité comme compost."
+  },
+  {
+    "term": "Technique du film nutritif",
+    "category": "Reproduction",
+    "definition": "Méthode consistant à étaler une fine couche de substrat riche en protéines pour stimuler la ponte des femelles BSF."
+  },
+  {
+    "term": "Indice de consommation",
+    "category": "Performance",
+    "definition": "Rapport entre la quantité de déchets consommés et la biomasse larvaire produite, exprimé généralement en quantité de matière sèche."
+  },
+  {
+    "term": "Phytotoxicité",
+    "category": "Propriétés",
+    "definition": "Potentiel d'un résidu de digestion à inhiber la germination ou la croissance des plantes, paramètre important pour son utilisation agricole."
+  },
+  {
+    "term": "Degré-jour",
+    "category": "Biologie",
+    "definition": "Unité cumulative de température utilisée pour prédire les stades de développement des BSF en fonction des conditions thermiques."
+  },
+  {
+    "term": "Support de biofilm",
+    "category": "Équipement",
+    "definition": "Surfaces dans les installations d'élevage permettant le développement de communautés microbiennes bénéfiques au processus de biodegradation."
+  },
+  {
+    "term": "Phototactisme",
+    "category": "Biologie",
+    "definition": "Réponse des larves de BSF à la lumière, généralement négative (fuite) à l'exception des adultes qui recherchent la lumière pour l'accouplement."
+  },
+  {
+    "term": "Taux de rétention des nutriments",
+    "category": "Performance",
+    "definition": "Pourcentage des éléments nutritifs présents dans le substrat qui sont incorporés dans la biomasse larvaire."
+  },
+  {
+    "term": "Insectaire",
+    "category": "Équipement",
+    "definition": "Structure spécialisée pour l'élevage des insectes, adaptée aux besoins spécifiques des BSF adultes et de leurs différents stades de développement."
+  },
+  {
+    "term": "Oculaire de sexage",
+    "category": "Équipement",
+    "definition": "Outil optique permettant de distinguer les mouches mâles des femelles, utilisé pour maintenir un ratio optimal dans les cages de reproduction."
+  },
+  {
+    "term": "Traitement post-récolte",
+    "category": "Processus",
+    "definition": "Ensemble des opérations appliquées aux larves après récolte (purge, lavage, assommage, séchage) pour les préparer à différentes utilisations."
+  }
+]

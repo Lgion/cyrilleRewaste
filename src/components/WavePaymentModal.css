@@ -1,0 +1,283 @@
+/* ═══════════════════════════════════════════════
+   Wave Payment Modal Styles
+   Branding: Wave Blue (#29B6F6)
+   ═══════════════════════════════════════════════ */
+
+.wave-modal {
+  max-width: 440px;
+  border-radius: var(--radius-xl);
+  overflow: hidden;
+}
+
+.wave-modal__header {
+  background: linear-gradient(135deg, #0288D1, #29B6F6);
+  padding: var(--space-lg) var(--space-xl);
+  color: white;
+}
+
+.wave-modal__header-content {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.wave-modal__brand {
+  display: flex;
+  align-items: center;
+  gap: var(--space-md);
+}
+
+.wave-modal__cat {
+  font-size: 2rem;
+  filter: drop-shadow(0 2px 4px rgba(0,0,0,0.2));
+}
+
+.wave-modal__title {
+  font-family: var(--font-heading);
+  font-size: 1.25rem;
+  font-weight: 700;
+  color: white;
+  margin: 0;
+}
+
+.wave-modal__subtitle {
+  font-size: 0.85rem;
+  opacity: 0.85;
+  margin: 0;
+}
+
+.wave-modal__close {
+  width: 2rem;
+  height: 2rem;
+  border-radius: var(--radius-full);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  font-size: 1.1rem;
+  background: rgba(255,255,255,0.15);
+  transition: background var(--transition-fast);
+}
+
+.wave-modal__close:hover {
+  background: rgba(255,255,255,0.3);
+}
+
+.wave-modal__context {
+  margin-top: var(--space-sm);
+  padding: var(--space-xs) var(--space-sm);
+  background: rgba(255,255,255,0.15);
+  border-radius: var(--radius-sm);
+  font-size: 0.82rem;
+  text-align: center;
+}
+
+.wave-modal__body {
+  padding: var(--space-xl);
+}
+
+.wave-modal__label {
+  display: block;
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--frass-400);
+  margin-bottom: var(--space-sm);
+}
+
+.wave-modal__input-wrap {
+  display: flex;
+  align-items: center;
+  border: 2px solid var(--frass-100);
+  border-radius: var(--radius-md);
+  overflow: hidden;
+  margin-bottom: var(--space-md);
+  transition: border-color var(--transition-fast);
+}
+
+.wave-modal__input-wrap:focus-within {
+  border-color: var(--wave-blue);
+  box-shadow: 0 0 0 3px rgba(41, 182, 246, 0.15);
+}
+
+.wave-modal__input {
+  flex: 1;
+  padding: 0.85rem var(--space-md);
+  border: none;
+  outline: none;
+  font-size: 1.2rem;
+  font-weight: 700;
+  color: var(--frass-800);
+  font-family: var(--font-heading);
+}
+
+.wave-modal__currency {
+  padding: 0.85rem var(--space-md);
+  background: var(--surface-cream);
+  color: var(--frass-300);
+  font-weight: 600;
+  font-size: 0.85rem;
+  font-family: var(--font-heading);
+}
+
+.wave-modal__presets {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: var(--space-sm);
+  margin-bottom: var(--space-xl);
+}
+
+.wave-modal__preset {
+  padding: 0.6rem var(--space-sm);
+  border: 1.5px solid var(--frass-100);
+  border-radius: var(--radius-md);
+  font-size: 0.82rem;
+  font-weight: 600;
+  font-family: var(--font-heading);
+  color: var(--frass-400);
+  transition: all var(--transition-fast);
+  text-align: center;
+}
+
+.wave-modal__preset:hover {
+  border-color: var(--wave-blue);
+  color: var(--wave-blue);
+  background: rgba(41, 182, 246, 0.05);
+}
+
+.wave-modal__preset.active {
+  border-color: var(--wave-blue);
+  background: rgba(41, 182, 246, 0.1);
+  color: var(--wave-blue-dark);
+}
+
+.wave-modal__qr-zone {
+  background: var(--surface-cream);
+  border: 1px solid var(--frass-50);
+  border-radius: var(--radius-lg);
+  padding: var(--space-lg);
+  text-align: center;
+  margin-bottom: var(--space-lg);
+}
+
+.wave-modal__qr-label {
+  font-size: 0.9rem;
+  color: var(--frass-300);
+  margin-bottom: var(--space-md);
+}
+
+.wave-modal__wave-text {
+  font-family: var(--font-heading);
+  font-weight: 800;
+  color: var(--wave-blue-dark);
+  font-size: 1.1rem;
+}
+
+.wave-modal__qr-container {
+  display: flex;
+  justify-content: center;
+  margin-bottom: var(--space-md);
+}
+
+.wave-modal__qr-container svg {
+  border-radius: var(--radius-md);
+  box-shadow: var(--shadow-sm);
+}
+
+.wave-modal__qr-amount {
+  display: inline-block;
+  padding: 0.4rem 1.5rem;
+  background: var(--wave-blue);
+  color: white;
+  border-radius: var(--radius-full);
+  font-family: var(--font-heading);
+  font-weight: 700;
+  font-size: 1rem;
+  margin-bottom: var(--space-sm);
+}
+
+.wave-modal__partners {
+  font-size: 0.72rem;
+  color: var(--frass-200);
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+
+.wave-modal__steps {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-sm);
+  margin-bottom: var(--space-xl);
+}
+
+.wave-modal__step {
+  display: flex;
+  align-items: center;
+  gap: var(--space-sm);
+  font-size: 0.88rem;
+  color: var(--frass-400);
+}
+
+.wave-modal__step-num {
+  font-size: 1.1rem;
+  color: var(--wave-blue);
+}
+
+.wave-modal__actions {
+  display: flex;
+  gap: var(--space-sm);
+}
+
+.wave-modal__btn-primary {
+  flex: 1;
+  justify-content: center;
+  font-size: 0.9rem;
+  padding: 0.85rem var(--space-md);
+}
+
+.wave-modal__btn-copy {
+  padding: 0.85rem var(--space-lg);
+  border: 2px solid var(--frass-100);
+  border-radius: var(--radius-md);
+  font-weight: 600;
+  font-size: 0.88rem;
+  color: var(--frass-400);
+  transition: all var(--transition-fast);
+  white-space: nowrap;
+}
+
+.wave-modal__btn-copy:hover {
+  border-color: var(--wave-blue);
+  color: var(--wave-blue);
+}
+
+.wave-modal__btn-copy.copied {
+  border-color: var(--success);
+  color: var(--success);
+  background: rgba(102, 187, 106, 0.05);
+}
+
+@media (max-width: 480px) {
+  .wave-modal__body {
+    padding: var(--space-md);
+  }
+
+  .wave-modal__presets {
+    grid-template-columns: repeat(3, 1fr);
+    gap: var(--space-xs);
+  }
+
+  .wave-modal__preset {
+    font-size: 0.75rem;
+    padding: 0.5rem var(--space-xs);
+  }
+
+  .wave-modal__actions {
+    flex-direction: column;
+  }
+
+  .wave-modal__qr-container svg {
+    width: 140px !important;
+    height: 140px !important;
+  }
+}
