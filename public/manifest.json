@@ -2,20 +2,20 @@
   "name": "ReWaste BSF — Bioconversion & Élevage",
   "short_name": "ReWaste BSF",
   "description": "Plateforme agritech de bioconversion de biodéchets par Hermetia illucens à Abidjan",
-  "start_url": "/",
+  "start_url": "./",
   "display": "standalone",
   "background_color": "#1B4D3E",
   "theme_color": "#1B4D3E",
   "orientation": "portrait",
   "icons": [
     {
-      "src": "/images/logo.jpg",
+      "src": "images/logo.jpg",
       "sizes": "192x192",
       "type": "image/jpeg",
       "purpose": "any maskable"
     },
     {
-      "src": "/images/logo.jpg",
+      "src": "images/logo.jpg",
       "sizes": "512x512",
       "type": "image/jpeg",
       "purpose": "any maskable"

@@ -12,8 +12,8 @@ export default function VideoIntroSection() {
       title: 'Vision ReWaste & Message des Co-Fondateurs',
       speaker: 'Kouessi Émile Hognikou & Cyrille',
       role: 'Co-Fondateurs ReWaste BSF • Cocody, Abidjan',
-      src: '/videos/intro_emile.mp4',
-      poster: '/images/founders.jpg',
+      src: `${import.meta.env.BASE_URL}videos/intro_emile.mp4`,
+      poster: `${import.meta.env.BASE_URL}images/founders.jpg`,
       badge: 'Présentation Officielle',
       duration: '0:35 min',
       description: 'Découvrez la vision d’Émile et Cyrille : transformer les défis environnementaux d\'Abidjan en une opportunité agricole et économique souveraine grâce à la mouche soldat noire.',
@@ -28,8 +28,8 @@ export default function VideoIntroSection() {
       title: 'Immersion en Pépinière & Recherche Industrielle',
       speaker: 'Équipe Technique ReWaste',
       role: 'Unité Expérimentale & Production de Géniteurs',
-      src: '/videos/intro_recherche.mp4',
-      poster: '/images/nursery_real.jpg',
+      src: `${import.meta.env.BASE_URL}videos/intro_recherche.mp4`,
+      poster: `${import.meta.env.BASE_URL}images/nursery_real.jpg`,
       badge: 'R&D & Pépinière',
       duration: '0:45 min',
       description: 'Visite immersive au cœur de notre pépinière : Love Cages de reproduction, induction lumineuse 440/540 nm, nurserie climatisée et calibrage des larves 5-DOL.',
@@ -161,7 +161,7 @@ export default function VideoIntroSection() {
 
             <div className="video-founder-strip">
               <img 
-                src="/images/founders.jpg" 
+                src={`${import.meta.env.BASE_URL}images/founders.jpg`} 
                 alt="Cyrille et Kouessi Émile Hognikou" 
                 className="founder-mini-avatar"
               />

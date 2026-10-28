@@ -781,7 +781,7 @@ Pouvez-vous m'accompagner pour lancer cette unité ?`;
         <nav className={`navbar ${navScrolled ? 'navbar--scrolled' : ''}`}>
         <div className="container navbar__inner">
           <div className="navbar__brand" onClick={() => handleNavigate('landing')}>
-            <img src="/images/logo.jpg" alt="ReWaste BSF" className="navbar__logo" />
+            <img src={`${import.meta.env.BASE_URL}images/logo.jpg`} alt="ReWaste BSF" className="navbar__logo" />
             <div>
               <span className="navbar__name">ReWaste</span>
               <span className="navbar__tagline">Bioconversion BSF</span>
@@ -973,7 +973,7 @@ Pouvez-vous m'accompagner pour lancer cette unité ?`;
           {/* ═══ HERO SECTION ═══ */}
           <section id="hero" className="hero">
             <div className="hero__bg">
-              <img src="/images/hero.jpg" alt="" className="hero__bg-img" />
+              <img src={`${import.meta.env.BASE_URL}images/hero.jpg`} alt="" className="hero__bg-img" />
               <div className="hero__overlay"></div>
             </div>
             <div className="container hero__content">
@@ -1106,7 +1106,7 @@ Pouvez-vous m'accompagner pour lancer cette unité ?`;
                 <div className="formations-infographic__hero">
                   <div className="formations-infographic__photo-box">
                     <img 
-                      src="/images/training_masterclass.jpg" 
+                      src={`${import.meta.env.BASE_URL}images/training_masterclass.jpg`} 
                       alt="Formation pratique BSF à Abidjan" 
                       className="formations-infographic__photo"
                     />
@@ -1351,7 +1351,7 @@ Pouvez-vous m'accompagner pour lancer cette unité ?`;
             <div className="container">
               <div className="footer__grid">
                 <div className="footer__brand">
-                  <img src="/images/logo.jpg" alt="ReWaste" className="footer__logo" />
+                  <img src={`${import.meta.env.BASE_URL}images/logo.jpg`} alt="ReWaste" className="footer__logo" />
                   <h3 className="footer__name">ReWaste BSF</h3>
                   <p className="footer__desc">
                     Écosystème de Valorisation — Pépinière BSF & Partenaires de Traitement.

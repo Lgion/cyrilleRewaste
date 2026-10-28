@@ -266,7 +266,7 @@ export default function B2BPortal({ currency = 'FCFA', onCurrencyChange }) {
                   {/* Certificate Header */}
                   <div className="cert-header">
                     <div className="cert-logo-box">
-                      <img src="/images/logo.jpg" alt="ReWaste Logo" className="cert-logo" />
+                      <img src={`${import.meta.env.BASE_URL}images/logo.jpg`} alt="ReWaste Logo" className="cert-logo" />
                     </div>
                     <div className="cert-title-block">
                       <span className="cert-republic">RÉPUBLIQUE DE CÔTE D'IVOIRE</span>
